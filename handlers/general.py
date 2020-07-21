@@ -1,5 +1,5 @@
 from aiogram import types
-from setup import dp, bot
+from setup import dp
 
 
 @dp.message_handler(commands=["start"])

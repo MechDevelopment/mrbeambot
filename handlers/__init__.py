@@ -1,4 +1,5 @@
 from . import general
+from . import generate
 
 # TODO: help message
 # TODO: menu for random beam generation

@@ -1,6 +1,8 @@
 from aiogram import executor
 from setup import dp
+import keyboards
 import handlers
+import services
 
 
 if __name__ == "__main__":
